@@ -1,2 +1,4 @@
 first stroke 
 second stroke 
+third stroke
+forth stroke
