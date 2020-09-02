@@ -2,3 +2,6 @@ first stroke
 second stroke 
 third stroke
 forth stroke
+
+change 1
+change 2
